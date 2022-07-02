@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/assets/js/jss/basket.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assets/js/jss/cat.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assets/js/jss/code.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assets/js/jss/discount.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assets/js/jss/new-cat.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assets/js/jss/new-product.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assets/js/jss/new-subcat.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assets/js/jss/order.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assets/js/jss/product.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assets/js/jss/products.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assets/js/jss/subcat.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/laravel/app/Http/Controllers/homeController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/laravel/resources/views/basket.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/laravel/resources/views/cat-home.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/laravel/resources/views/cat.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/laravel/resources/views/code.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/laravel/resources/views/comment.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/laravel/resources/views/discount.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/laravel/resources/views/done.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/laravel/resources/views/edit-cat.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/laravel/resources/views/edit-product.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/laravel/resources/views/edit-subcat.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/laravel/resources/views/home.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/laravel/resources/views/manager-added.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/laravel/resources/views/master.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/laravel/resources/views/new-cat.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/laravel/resources/views/new-manager.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/laravel/resources/views/new-product.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/laravel/resources/views/new-subcat.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/laravel/resources/views/order.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/laravel/resources/views/panel.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/laravel/resources/views/product.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/laravel/resources/views/products.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/laravel/resources/views/search.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/laravel/resources/views/subcat.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/laravel/resources/views/vendor/pagination/custom.blade.php" charset="UTF-8" />
+  </component>
+</project>
